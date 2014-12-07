@@ -1,0 +1,26 @@
+html{ color: #343434; background: #bcc2c6; font-size: 14px; line-height: 1.5; font-family: "Lucida Sans Unicode", "Lucida Grande", Arial, Verdana, sans-serif; }
+body{}
+  
+
+
+a img { border: none; }
+
+h1,h2,h3,ul,ol,p{ margin: 1.5em 0; }
+
+h1{ margin: 42px auto 28px auto; width: 100%; }
+h2{ font-size: 1.25em; }
+.uniForm h2{ margin: 1em 0 1em 1.15em; }
+fieldset h3{ margin: 1.5em -28px; padding: 14px 28px; line-height: 1; background: #efefef; color: #343434; }
+
+.uniForm{
+	width: 400;
+	background:#efefef;
+	margin: 2px auto;
+	padding: 2px;
+	/* CSS3 */
+          border-radius:         12px;
+	-webkit-border-radius: 12px;
+	-moz-border-radius:    12px;
+	-o-border-radius:      12px;
+	-khtml-border-radius:  12px;
+        }
